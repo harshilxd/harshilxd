@@ -31,12 +31,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/harshil-dodiya-701339285/)](https://www.linkedin.com/in/harshil-dodiya-701339285/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/harshilxd)](https://github.com/harshilxd)
 
-## ⚙️ GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilxd&count-private=true&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=harshilxd&theme=algolia&show_icons=true&count-private=true)
-
-
 <!--
 **AstuteFern/AstuteFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
