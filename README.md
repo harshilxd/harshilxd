@@ -21,7 +21,7 @@
   
   - GitHub Actions CI/CD
 
-  - AI Prompt Engineering
+  - AI Engineering and Training
   
   - Web3 Development
   
