@@ -22,10 +22,7 @@
   - GitHub Actions CI/CD
 
   - AI Engineering and Training
-  
-  - Web3 Development
-  
-  - Cryptography
+
 
 ## 🔗 Let's Connect
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/harshil-dodiya-701339285/)](https://www.linkedin.com/in/harshil-dodiya-701339285/)
