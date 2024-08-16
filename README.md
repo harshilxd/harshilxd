@@ -29,8 +29,6 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/harshilxd)](https://github.com/harshilxd)
 
 <!--
-**AstuteFern/AstuteFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
